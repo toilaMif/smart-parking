@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+qrcode
+Pillow
+gspread
+google-auth
+requests
+opencv-python
+ultralytics
